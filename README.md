@@ -13,7 +13,7 @@
    1.n_b/n_0\   2.n_b \ (\rm fm^{-3})\  3.Energy \ Density \  (MeV-fm^{-3}) \ 4.Pressure \  (MeV-fm^{-3}).
   ```
 
- * All EoSs satisfies the PNM matter constraints resulting from  chiral effective field theory. Whereas, PCSB0, PCSB1, and PCSB2 satisfy both the Astro-physical constraints (GW170817+NICER) and the chiral effective field theory.
+ * All EoSs satisfy the PNM matter constraints resulting from  chiral effective field theory. Whereas, PCSB0, PCSB1, and PCSB2 satisfy both the Astro-physical constraints (GW170817+NICER) and the chiral effective field theory.
 
 
 Please cite the article [ref] if you are using this EoSs.
