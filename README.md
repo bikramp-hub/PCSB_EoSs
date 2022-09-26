@@ -6,7 +6,7 @@
   ```math
    \rm 9 * 10^{-11}\  fm^{-3} \leq n_b \leq 1.42 \ fm^{-3},
    
-   \rm Where\  n_b \ is\  the \ Baryon\ number \   density.
+   \rm where\  n_b \ is\  the \ baryon\ number \   density.
    ```
    * Read columns as 
    ```math
