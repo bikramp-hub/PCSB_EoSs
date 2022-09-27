@@ -1,7 +1,7 @@
 ## PCSB_EoSs
   * Optimized cold matter Neutron Star equations of state based upon the Relativistic Mean Field (RMF) Approximation.
 
-  * The details of the parametrization for each EoS can be found in Table 2 of [ref].
+  * The details of the parametrization for each EoS can be found in Table 2 of [Pradhan et al.,2022](https://arxiv.org/abs/2209.12657).
   * EoSs are given for,
   ```math
    \rm 9 * 10^{-11}\  fm^{-3} \leq n_b \leq 1.42 \ fm^{-3},
@@ -16,4 +16,5 @@
  * All EoSs satisfy the PNM matter constraints resulting from chiral effective field theory, while PCSB0, PCSB1, and PCSB2 satisfy both the astro-physical constraints (GW170817+NICER) and the chiral effective field theory.
 
 
-Please cite the article [ref] if you are using this EoSs.
+Please cite the article [Pradhan et al.,2022](https://arxiv.org/abs/2209.12657) if you are using these EoSs.
+
